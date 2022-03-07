@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [code](https://github.com/chatrapathi-002/Frontend-Mentor-Challenges/tree/main/qr-code-component)
-- Live Site URL: [live](https://your-live-site-url.com)
+- Live Site URL: [live](https://frontend-mentor-challenges-psi-silk.vercel.app/)
 
 ## My process
 
